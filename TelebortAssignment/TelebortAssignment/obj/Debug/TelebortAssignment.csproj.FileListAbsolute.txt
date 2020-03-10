@@ -1,0 +1,9 @@
+C:\Users\Asus\source\repos\TelebortAssignment\TelebortAssignment\bin\Debug\TelebortAssignment.exe.config
+C:\Users\Asus\source\repos\TelebortAssignment\TelebortAssignment\bin\Debug\TelebortAssignment.exe
+C:\Users\Asus\source\repos\TelebortAssignment\TelebortAssignment\bin\Debug\TelebortAssignment.pdb
+C:\Users\Asus\source\repos\TelebortAssignment\TelebortAssignment\obj\Debug\TelebortAssignment.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\TelebortAssignment\TelebortAssignment\obj\Debug\TelebortAssignment.Form1.resources
+C:\Users\Asus\source\repos\TelebortAssignment\TelebortAssignment\obj\Debug\TelebortAssignment.Properties.Resources.resources
+C:\Users\Asus\source\repos\TelebortAssignment\TelebortAssignment\obj\Debug\TelebortAssignment.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\TelebortAssignment\TelebortAssignment\obj\Debug\TelebortAssignment.exe
+C:\Users\Asus\source\repos\TelebortAssignment\TelebortAssignment\obj\Debug\TelebortAssignment.pdb
